@@ -13,13 +13,6 @@ A thread-safe, generic-type in-memory caching library with support for multiple 
 - Support for custom eviction policies
 - Clear and simple API
 
-## Installation
-
-Clone this repository:
-```bash
-git clone https://github.com/yourusername/cache-library.git
-cd cache-library
-```
 
 ## Usage
 
